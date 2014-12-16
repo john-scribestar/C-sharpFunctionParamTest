@@ -1,0 +1,6 @@
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\bin\Debug\CSharpfunctionParamTest.exe.config
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\bin\Debug\CSharpfunctionParamTest.exe
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\bin\Debug\CSharpfunctionParamTest.pdb
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\obj\Debug\CSharpfunctionParamTest.csprojResolveAssemblyReference.cache
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\obj\Debug\CSharpfunctionParamTest.exe
+C:\Users\john.harris\Source\Repos\C-sharpFunctionParamTest\CSharpfunctionParamTest\CSharpfunctionParamTest\obj\Debug\CSharpfunctionParamTest.pdb
